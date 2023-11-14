@@ -1,0 +1,7 @@
+insert into pasien (kode_pasien, nama_pasien, gender, tanggal_berobat, penyakit) VALUES 
+('PSN00001', 'Lionel Messi', 'L', '2023-11-03', 'Katarak'), 
+('PSN00025', 'Taylor Swift', 'P', '2023-11-04', 'Kaligata'),
+('PSN00050', 'Ariana Grande', 'P', '2023-11-04', 'Gigi berlubang'),
+('PSN00075', 'Neymar Junior', 'L', '2023-11-05', 'Herpes'),
+('PSN00100', 'Andres Iniesta', 'L', '2023-11-06', 'Asma'),
+('PSN00125', 'Pablo Escobar', 'L', '2023-11-07', 'Radang Amandel');
